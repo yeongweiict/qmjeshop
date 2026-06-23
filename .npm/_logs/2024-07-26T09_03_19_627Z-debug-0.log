@@ -1,0 +1,15 @@
+0 verbose cli /opt/plesk/node/18/bin/node /opt/plesk/node/18/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.4
+3 silly config:load:file:/opt/plesk/node/18/lib/node_modules/npm/npmrc
+4 silly config:load:file:/var/www/vhosts/qmjewellery.com.my/api-eshop.qmjewellery.com.my/.npmrc
+5 silly config:load:file:/var/www/vhosts/qmjewellery.com.my/.npmrc
+6 silly config:load:file:/opt/plesk/node/18/etc/npmrc
+7 verbose title npm run start:prod
+8 verbose argv "run" "start:prod"
+9 verbose logfile logs-max:10 dir:/var/www/vhosts/qmjewellery.com.my/.npm/_logs/2024-07-26T09_03_19_627Z-
+10 verbose logfile /var/www/vhosts/qmjewellery.com.my/.npm/_logs/2024-07-26T09_03_19_627Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose exit 1
+14 verbose code 1
